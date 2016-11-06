@@ -1,0 +1,7 @@
+- hosts: satish
+
+  roles:
+    - server
+    - php
+    - mysql
+    - wordpress
